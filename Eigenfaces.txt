@@ -1,0 +1,6 @@
+Papers Reffered: 
+Face Recognition Using Eigenfaces, by Matthew A. Turk and Alex P. Pentland
+Rapid Object Detection using a boosted Cascade of Simple Features, by Paul Viola and Michael Jones
+
+Dataset Used:
+Yale Face Database A
